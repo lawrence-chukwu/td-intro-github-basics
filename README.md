@@ -32,4 +32,8 @@ THE PROCESS OF COMMITTING A PROJECT TO GITHUB REPOSITORY
 
 12. Type in “git push -u origin main”
 
+<<<<<<< HEAD
 13. After making any changes/updates to the project, repeat No 8, 9 (with a new commit name), and 12 to get it to the remote repository.
+=======
+13. After making any changes/updates to the project, repeat No 8, 9 (with a new commit name), and 12 to get it to the remote repository.
+>>>>>>> db10d403edf5fd1037ae710ba0eb9fe42002b35b
